@@ -1,5 +1,4 @@
 ### Hi there 👋
-# Hello world !
 
 ## I am Jesús Bermúdez-Cameo <p> Associate Professor (CDOC) at the  Universidad de Zaragoza, Spain.
 
